@@ -1,0 +1,128 @@
+AQUAGUARD AI — WATER LEAKAGE AND ABNORMAL-USAGE INDICATORS
+
+Purpose:
+This document provides general indicators that AquaGuard AI can use when interpreting persistent or unusual water-consumption patterns. These indicators support risk assessment and do not by themselves prove that a physical leak exists.
+
+1. Sudden Increase in Water Consumption
+
+A significant increase above the expected or historical water-consumption pattern may indicate abnormal water use.
+
+Possible causes include:
+- Increased water demand
+- Continuous water flow
+- Plumbing problems
+- Equipment malfunction
+- Leakage
+- Changes in household or facility activity
+
+AquaGuard should compare current consumption with the expected baseline before classifying the event.
+
+2. Persistent Abnormal Consumption
+
+Repeated abnormal consumption over several consecutive observations is more significant than a single isolated increase.
+
+Persistent abnormal usage may indicate:
+- Continuous water flow
+- Leakage
+- Equipment problems
+- Unusual operational activity
+
+The number of consecutive anomalies should therefore be considered when assessing risk.
+
+3. Unexpected Low-Demand or Night-Time Consumption
+
+Water consumption during periods when water use is normally low can indicate continuous flow or possible leakage.
+
+Examples include:
+- Water consumption during sleeping hours
+- Continuous meter movement
+- Repeated consumption during facility closure
+- Consumption when no major water activity is expected
+
+However, scheduled activities and automated systems should be considered before concluding that leakage is present.
+
+4. Water Meter Movement
+
+If all known water-consuming activities are stopped and the water meter continues to register flow, there may be an unintended source of consumption.
+
+Possible causes include:
+- Leaking taps
+- Running toilets
+- Pipe leakage
+- Faulty valves
+- Storage tank overflow
+- Connected equipment
+
+The observation should be verified before reporting a confirmed leak.
+
+5. Visible Signs of Leakage
+
+Physical indicators may include:
+- Dripping taps
+- Continuously running toilets
+- Wet floors or walls
+- Damp areas near pipes
+- Water pooling
+- Overflowing storage tanks
+- Unusual sounds from plumbing
+- Moisture around pipe connections
+
+These physical observations provide additional evidence but should not be assumed when they have not been observed.
+
+6. High Consumption from a Specific Source
+
+If monitoring data identifies a particular area, appliance, fixture, or activity as the major contributor to consumption, that source should be investigated first.
+
+Examples include:
+- Bathroom
+- Kitchen
+- Irrigation system
+- Water tank
+- Industrial equipment
+- Washing equipment
+
+7. Importance of Historical Comparison
+
+Current consumption should be compared with:
+- Historical consumption
+- Expected consumption
+- Recent average consumption
+- Similar time periods
+- Normal operating conditions
+
+A single unusual value may have a legitimate explanation, while a persistent deviation can provide stronger evidence for investigation.
+
+8. AquaGuard Interpretation Rules
+
+Normal:
+Consumption is within the expected range. No immediate leakage conclusion should be made.
+
+Warning:
+Consumption is moderately above the expected pattern. Continue monitoring and review recent water usage.
+
+High:
+Consumption is significantly above the expected pattern. Investigate major contributing sources.
+
+Critical:
+Consumption is substantially above the expected pattern, particularly when the anomaly persists. Prompt investigation is recommended.
+
+9. Responsible AI Guidance
+
+AquaGuard must distinguish between:
+- Observed measurement
+- Statistical anomaly
+- Possible cause
+- Confirmed physical problem
+
+An abnormal consumption pattern should be described as an indicator of possible leakage rather than proof of leakage.
+
+Preferred language:
+- "possible leakage"
+- "may indicate"
+- "could be caused by"
+- "requires investigation"
+
+Avoid:
+- "A leak definitely exists."
+- "The pipe is definitely broken."
+- "The system has confirmed a leak."

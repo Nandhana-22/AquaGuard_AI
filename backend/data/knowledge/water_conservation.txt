@@ -1,0 +1,124 @@
+AQUAGUARD AI — WATER CONSERVATION PRACTICES
+
+Purpose:
+This document contains practical water-conservation practices that AquaGuard AI can recommend based on detected consumption patterns.
+
+1. Monitor Water Consumption
+
+Regular monitoring helps identify:
+- Sudden increases
+- Long-term increases
+- Repeated abnormal consumption
+- Unusual consumption during low-demand periods
+
+Comparing current consumption with historical and expected consumption can help users identify potential problems early.
+
+2. Fix Leaking Fixtures
+
+Leaking taps, toilets, pipes, valves, and other fixtures can cause unnecessary water loss.
+
+Users should regularly inspect visible plumbing fixtures and arrange repairs when leakage is suspected.
+
+3. Use Water-Efficient Fixtures
+
+Water-efficient fixtures can reduce unnecessary water consumption.
+
+Examples include:
+- Efficient taps
+- Low-flow showerheads
+- Water-efficient toilets
+- Efficient irrigation equipment
+
+The suitability of a fixture depends on the location and intended use.
+
+4. Reduce Unnecessary Running Water
+
+Users should avoid leaving taps running when water is not actively required.
+
+Examples:
+- Turn off taps while brushing teeth.
+- Avoid unnecessary running water while cleaning.
+- Use only the amount of water required for an activity.
+- Repair dripping fixtures.
+
+5. Improve Bathing Efficiency
+
+Water consumption during bathing can be reduced by:
+- Reducing shower duration
+- Avoiding unnecessary water flow
+- Using efficient shower fixtures
+- Turning off water when it is not required
+
+6. Use Appliances Efficiently
+
+Water-consuming appliances should be operated efficiently.
+
+Examples:
+- Run washing machines with appropriate loads.
+- Avoid unnecessary repeated cycles.
+- Use efficient settings when available.
+- Maintain appliances to prevent abnormal water consumption.
+
+7. Improve Irrigation Efficiency
+
+Outdoor water use can be reduced by:
+- Watering plants according to their actual needs
+- Avoiding unnecessary irrigation
+- Using efficient irrigation methods
+- Monitoring irrigation schedules
+- Checking irrigation pipes and connections for leakage
+
+8. Rainwater Harvesting
+
+Rainwater harvesting can help supplement available water resources where appropriate.
+
+A suitable rainwater harvesting system may:
+- Collect rainwater
+- Store water for later use
+- Reduce dependence on supplied water
+- Support non-potable uses where safe and permitted
+
+Local regulations, water quality, system design, and hygiene requirements should be considered.
+
+9. Safe Water Reuse
+
+Where permitted and safe, suitable water may be reused for non-potable purposes.
+
+Examples can include certain cleaning or gardening applications.
+
+Water reuse should only be recommended when:
+- The water quality is suitable.
+- The intended use is safe.
+- Applicable regulations are followed.
+
+10. Reduce Water Waste
+
+Users should identify activities where water is consumed unnecessarily.
+
+AquaGuard can help prioritize conservation actions based on observed consumption patterns.
+
+11. AquaGuard Recommendation Strategy
+
+Normal:
+Recommend general water-awareness and conservation practices.
+
+Warning:
+Encourage monitoring and review of recent water-consuming activities.
+
+High:
+Identify major contributing sources and recommend targeted conservation measures.
+
+Critical:
+Prioritize investigation of possible unintended water loss before recommending general conservation measures.
+
+12. Responsible AI Guidance
+
+AquaGuard should not promise a specific amount of water savings unless that estimate is supported by reliable data.
+
+Avoid statements such as:
+"You will definitely save 500 litres."
+
+Prefer:
+"This action may help reduce unnecessary water consumption."
+
+Recommendations should be practical, evidence-based, and appropriate to the detected situation.

@@ -1,0 +1,159 @@
+AQUAGUARD AI — WATER CONSUMPTION ANOMALY INSPECTION PROCEDURES
+
+Purpose:
+This document provides a structured procedure for investigating abnormal water-consumption patterns identified by AquaGuard AI.
+
+1. Confirm the Detected Anomaly
+
+Review the available monitoring information:
+
+- Actual consumption
+- Expected consumption
+- Percentage deviation
+- Anomaly status
+- Consecutive anomaly count
+- Risk classification
+- Historical consumption
+
+The purpose is to understand whether the abnormal pattern is isolated or persistent.
+
+2. Check for Legitimate Water Usage
+
+Before assuming that a technical problem exists, identify legitimate reasons for increased consumption.
+
+Possible explanations include:
+- Increased number of users
+- Cleaning activities
+- Irrigation
+- Visitors
+- Appliance operation
+- Tank filling
+- Maintenance
+- Scheduled water usage
+- Changes in facility operation
+
+A legitimate increase should not automatically be classified as leakage.
+
+3. Check the Water Meter
+
+Where safe and appropriate:
+
+1. Stop known water-consuming activities.
+2. Observe the water meter.
+3. Check whether the meter continues to register water flow.
+4. Record the observation.
+
+Continued meter movement may indicate unintended consumption, but further investigation is required.
+
+4. Inspect Visible Fixtures
+
+Inspect accessible fixtures for signs of unintended water flow.
+
+Check:
+- Taps
+- Toilets
+- Shower fixtures
+- Pipes
+- Pipe joints
+- Valves
+- Hoses
+- Storage tanks
+- Water connections
+
+Look for:
+- Dripping
+- Continuous flow
+- Wet areas
+- Water pooling
+- Overflow
+- Damp surfaces
+- Unusual sounds
+
+5. Check High-Contributing Sources
+
+If AquaGuard identifies a particular consumption source as dominant, investigate that source first.
+
+For example:
+
+Bathroom:
+Check toilets, taps, showers, and visible pipes.
+
+Kitchen:
+Check taps, sinks, pipes, and connected appliances.
+
+Irrigation:
+Check irrigation schedules, pipes, valves, and sprinkler systems.
+
+Storage:
+Check tanks, inlet valves, outlet valves, and overflow conditions.
+
+6. Compare with Historical Patterns
+
+Compare the current consumption with:
+- Previous hours
+- Previous days
+- Previous weeks
+- Similar operating periods
+
+A repeated pattern provides stronger evidence for investigation than a single isolated spike.
+
+7. Investigate Persistent Anomalies
+
+If abnormal consumption continues for several consecutive observations, increase the priority of investigation.
+
+AquaGuard should consider:
+- Severity of deviation
+- Duration
+- Consecutive anomaly count
+- Major contributing source
+- Historical pattern
+
+8. Critical Anomaly Response
+
+For a critical anomaly:
+
+1. Review the consumption measurements.
+2. Check whether legitimate high usage occurred.
+3. Check the meter where safe.
+4. Inspect visible fixtures.
+5. Investigate the major contributing source.
+6. Monitor whether the abnormal flow continues.
+7. Contact qualified maintenance personnel when necessary.
+
+9. Professional Inspection
+
+If the source cannot be safely identified or the abnormal condition persists, users should consider inspection by qualified maintenance personnel or the relevant water-service provider.
+
+AquaGuard should not instruct users to dismantle:
+- Pressurized plumbing
+- Electrical equipment
+- Water meters
+- Specialized infrastructure
+
+unless they are appropriately qualified.
+
+10. Record Inspection Results
+
+Where possible, record:
+- Inspection time
+- Suspected source
+- Observed condition
+- Corrective action
+- Post-correction consumption
+
+This information can support future monitoring and evaluation.
+
+11. Responsible AI Guidance
+
+AquaGuard must distinguish between:
+
+Observed:
+"What the monitoring system measured."
+
+Inferred:
+"What the consumption pattern may indicate."
+
+Confirmed:
+"What physical inspection establishes."
+
+The AI must not present an inferred leakage source as a confirmed physical fault.
