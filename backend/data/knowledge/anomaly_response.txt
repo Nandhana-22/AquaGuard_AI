@@ -196,31 +196,24 @@ Actual consumption:
 Expected consumption:
 2850 litres
 
-Deviation:
-44.6%
-
-Consecutive anomalies:
-4
-
-Risk:
-Critical
-
 12. Example AquaGuard AI Output
 
-"Critical water-consumption anomaly detected.
+For a Critical anomaly, the AI explanation should state that
+water consumption is substantially above the expected pattern
+and that the abnormal pattern has persisted.
 
-Current consumption is 44.6% above the expected level, and the abnormal pattern has persisted for four consecutive observations. This indicates a persistent deviation from the expected consumption pattern.
+The AI should identify possible causes such as:
+- continuous water flow
+- increased legitimate water demand
+- possible leakage
+- equipment-related issues
 
-Possible causes include continuous water flow, increased water demand, leakage, or an equipment-related issue.
+The AI should recommend checking legitimate usage,
+water-meter movement, visible fixtures, and high-contributing
+water sources.
 
-Recommended actions:
-1. Review recent water-use activities.
-2. Check the water meter for unexpected flow when known water use has stopped.
-3. Inspect accessible taps, toilets, pipes, valves, and storage tanks.
-4. Investigate the main contributing source identified by the monitoring system.
-5. If abnormal flow continues, consider qualified maintenance inspection.
-
-AquaGuard identifies this as a critical anomaly based on the project's statistical threshold. The anomaly does not by itself confirm that a physical leak exists."
+The AI must not claim that leakage is confirmed without
+physical inspection.
 
 13. Responsible AI Principle
 
